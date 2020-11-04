@@ -11,6 +11,6 @@
 <img src="https://github.com/Dhn-nys/thmwamod/blob/main/Screenshots/NordThemeLight.png" alt="Nord Light" align="right" width="400px">
 
 
-
+<br>
 ## Credits/Thanks
 - [Nord Theme](http://nordtheme.com)
