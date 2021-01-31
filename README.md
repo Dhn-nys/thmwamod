@@ -2,6 +2,7 @@
 
 ## List
 - Fouad WhatsApp
+- Delta WhatsApp
 - <del>GB WhatsApp</del>
 - <del>WhatsApp +</del>
 
