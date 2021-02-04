@@ -14,4 +14,8 @@
 NordBlack(Fouad)|NordLight(Fouad)
 |--|--|
 ![img](Screenshots/NordThemeDark.png)|![img](Screenshots/NordThemeLight.png)
+
+NordBluL-Home(Fouad)|NordBluL-Chat(Fouad)
+|--|--|
+![img](Screenshots/NordBlulHome.png)|![img](/Screenshots/NordBluLChat.png)
 <br />
