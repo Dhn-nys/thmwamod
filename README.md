@@ -9,6 +9,9 @@
 ## Credits/Thanks
 - [Nord Theme](http://nordtheme.com)
 
-## Nord Theme!
-<img align="left" width="50%" src="https://github.com/Dhn-nys/thmwamod/blob/main/Screenshots/NordThemeDark.png">
-<img align="right" width="50%" src="https://github.com/Dhn-nys/thmwamod/blob/main/Screenshots/NordThemeLight.png">
+### View
+
+NordBlack(Fouad)|NordLight(Fouad)
+|--|--|
+![img](Screenshots/NordThemeDark.png)|![img](Screenshots/NordThemeLight.png)
+<br />
