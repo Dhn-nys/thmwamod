@@ -18,4 +18,10 @@ NordBlack(Fouad)|NordLight(Fouad)
 NordBluL-Home(Fouad)|NordBluL-Chat(Fouad)
 |--|--|
 ![img](Screenshots/NordBlulHome.png)|![img](/Screenshots/NordBluLChat.png)
+
+
+NordBluD-Home(Fouad)|NordBluD-Chat(Fouad)
+|--|--|
+![img](Screenshots/NordBluDHome.png)|![img](/Screenshots/NordBluDChat.png)
+
 <br />
