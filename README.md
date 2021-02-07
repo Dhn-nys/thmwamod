@@ -22,6 +22,5 @@ NordBluL-Home(Fouad)|NordBluL-Chat(Fouad)
 
 NordBluD-Home(Fouad)|NordBluD-Chat(Fouad)
 |--|--|
-![img](Screenshots/NordBluDHome.png)|![img](/Screenshots/NordBluDChat.png)
-
+![img](Screenshots/NordBluDHome.png)|![img](/Screenshots/NordBluDChat(2).png)
 <br />
